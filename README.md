@@ -14,7 +14,7 @@
  
  <br>
  
-  ### Pra me conhecer um pouco mais me siga a gente nas redes sociais!
+  ### Encontre-me nas redes sociais!
  
 <div> 
   <a href="https://www.instagram.com/gion_ra/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>

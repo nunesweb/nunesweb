@@ -21,6 +21,6 @@
    <a href = "mailto:sergio.ferreira.n10@gmail.com>"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/s%C3%A9rgio-nunes-ferreira-3a6b9b145/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/nunesweb/nunesweb/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/nunesweb/nunesweb/blob/output/github-contribution-grid-snake.sv)
 
 </div>
